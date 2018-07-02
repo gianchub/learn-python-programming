@@ -63,3 +63,10 @@ Last update
 -----------
 
 2018.06.29
+
+
+Note on Pull Requests
+=====================
+
+Due to this code being tied to a published book, any PRs will be
+ignored.
